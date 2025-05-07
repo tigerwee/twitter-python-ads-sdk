@@ -5,5 +5,5 @@ responses
 mock
 setuptools_scm
 MarkupSafe
-setuptools>=40.0
+setuptools>=78.1.1
 configparser>=3.5
